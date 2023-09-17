@@ -25,7 +25,7 @@
     <a href = "mailto: geraldoaugustodf@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/geraldoaugustodf/">
+    <a href = "https://www.linkedin.com/in/geraldok7/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/@geraldokennedy7889">
