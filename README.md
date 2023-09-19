@@ -1,14 +1,16 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Olá, eu sou o Geraldo</b>
 <br>
 
-<img align="right" src="https://github.com/geraldok7/geraldok7/blob/main/code.gif" width="300"/>
-<p aligh="left">
+
   <p>Olá! Seja bem-vindo!</br>
   Eu sou o Geraldo, Desenvolvedor de Brasília - DF
   	
   💡 &nbsp;Gosto de explorar novas tendências e aprender novas tecnologias.\
   🌱 &nbsp;Estou no caminho para aprender mais sobre <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React</u></a> e <a style="color:#000000" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>.\
   💬 &nbsp;Sinta-se à vontade para me contatar para consultas, trabalho voluntário ou apenas para uma discussão interessante.
+
+  <img align="right" src="https://github.com/geraldok7/geraldok7/blob/main/code.gif" width="300"/>
+<p aligh="left">
 </p>
 <br>
 
