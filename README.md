@@ -9,8 +9,7 @@
   🌱 &nbsp;Estou no caminho para aprender mais sobre <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React</u></a> e <a style="color:#000000" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>.\
   💬 &nbsp;Sinta-se à vontade para me contatar para consultas, trabalho voluntário ou apenas para uma discussão interessante.
 
-  <img align="right" src="https://github.com/geraldok7/geraldok7/blob/main/code.gif" width="300"/>
-<p aligh="left">
+  
 </p>
 <br>
 
@@ -28,6 +27,10 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+<p>
+<img align="center" src="https://github.com/geraldok7/geraldok7/blob/main/code.gif" width="300"/>
+<p aligh="center">
 </p>
 
 ## 🌎 &nbsp;Onde me encontrar ##
