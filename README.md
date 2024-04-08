@@ -23,7 +23,7 @@
 <p aligh="center">
 </p>
 
-## 🌎 &nbsp;Onde me encontrar ##
+## 🌎 &nbsp; Where to find me ##
 <p>
   <a href="https://www.linkedin.com/in/geraldok7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:geraldoaugustodf@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
