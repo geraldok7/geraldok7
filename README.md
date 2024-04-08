@@ -2,13 +2,11 @@
 <br>
 
 
-  <p>Olá! Seja bem-vindo!</br>
-  Eu sou o Geraldo, Desenvolvedor de Brasília - DF
-  	
-  💡 &nbsp;Gosto de explorar novas tendências e aprender novas tecnologias.\
-  🌱 &nbsp;Estou no caminho para aprender mais sobre <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React</u></a> e <a style="color:#000000" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>.\
-  💬 &nbsp;Sinta-se à vontade para me contatar para consultas, trabalho voluntário ou apenas para uma discussão interessante.
-
+  <p>Hello! Welcome!<br>
+  I'm Geraldo, Developer from Brasília - DF<br>
+💡  I enjoy exploring new trends and learning new technologies.<br>
+🌱  I'm on the path to learning more about <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React</u></a> and <a style="color:#000000" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>.<br>
+💬  Feel free to contact me for inquiries, volunteer work, or just for an interesting discussion.
   
 </p>
 <br>
