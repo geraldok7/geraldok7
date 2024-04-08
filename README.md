@@ -39,6 +39,6 @@
 ![Minha sequência de commits no GitHub](http://github-readme-streak-stats.herokuapp.com?user=geraldok7&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
 
-## 🫂 How to support me ##
+## How to support me ##
 <a href="https://www.buymeacoffee.com/geraldok7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Me compre um café" width="150" ></a>
 <a href="http://coindrop.to/geraldok7" target="_blank"><img src="https://coindrop.to/embed-button.png" width="150" alt="Coindrop.to para mim"></img></a>
