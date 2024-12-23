@@ -32,11 +32,11 @@
 ## 📈 &nbsp;Some statistics from my Github ##
 <span align="left">
 
-![Estatísticas do GitHub de Th3Wall](https://github-readme-stats.vercel.app/api?username=geraldok7&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![Minha sequência de commits no GitHub](http://github-readme-streak-stats.herokuapp.com?user=geraldok7&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldok7&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=geraldok7&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
+</div>
+
 
 ## How to support me ##
 <a href="https://www.buymeacoffee.com/geraldok7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Me compre um café" width="150" ></a>
