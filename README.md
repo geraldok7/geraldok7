@@ -1,8 +1,6 @@
 # <b>Hi 👋, Eu sou o Geraldo</b>
 <br>
 
-
-  <p>Hello! Welcome!<br>
   I'm Geraldo, Developer from Brazil <br>
 <p>💡 Gosto de explorar novas tendências e aprender novas tecnologias.</p>
 <p>💬 Sinta-se à vontade para entrar em contato comigo para perguntas, trabalhos voluntários ou apenas para um bate-papo interessante.</p>
