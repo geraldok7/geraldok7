@@ -36,6 +36,6 @@
 </div>
 
 
-## Como me ajudar##
+## Como me ajudar ##
 <a href="https://www.buymeacoffee.com/geraldok7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Me compre um café" width="150" ></a>
 <a href="http://coindrop.to/geraldok7" target="_blank"><img src="https://coindrop.to/embed-button.png" width="150" alt="Coindrop.to para mim"></img></a>
