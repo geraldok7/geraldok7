@@ -4,8 +4,8 @@
 
   <p>Hello! Welcome!<br>
   I'm Geraldo, Developer from Brazil <br>
-💡 Gosto de explorar novas tendências e aprender novas tecnologias.
-💬 Sinta-se à vontade para entrar em contato comigo para perguntas, trabalhos voluntários ou apenas para um bate-papo interessante.
+<p>💡 Gosto de explorar novas tendências e aprender novas tecnologias.</p>
+<p>💬 Sinta-se à vontade para entrar em contato comigo para perguntas, trabalhos voluntários ou apenas para um bate-papo interessante.</p>
   
 </p>
 <br>
