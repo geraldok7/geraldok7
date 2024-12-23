@@ -20,14 +20,14 @@
 <p aligh="center">
 </p>
 
-## 🌎 &nbsp; Where to find me ##
+## 🌎 &nbsp; Onde me encontrar ##
 <p>
   <a href="https://www.linkedin.com/in/geraldok7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:geraldoaugustodf@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/geraldo.kennedy7/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-## 📈 &nbsp;Some statistics from my Github ##
+## 📈 &nbsp;Algumas estatísticas do meu Github ##
 <span align="left">
 
 <div align="center">
@@ -36,6 +36,6 @@
 </div>
 
 
-## How to support me ##
+## Como me ajudar##
 <a href="https://www.buymeacoffee.com/geraldok7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Me compre um café" width="150" ></a>
 <a href="http://coindrop.to/geraldok7" target="_blank"><img src="https://coindrop.to/embed-button.png" width="150" alt="Coindrop.to para mim"></img></a>
