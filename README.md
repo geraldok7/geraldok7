@@ -5,7 +5,6 @@
   <p>Hello! Welcome!<br>
   I'm Geraldo, Developer from Brazil <br>
 💡  I enjoy exploring new trends and learning new technologies.<br>
-🌱  I'm on the path to learning more about <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React</u></a> and <a style="color:#000000" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>.<br>
 💬  Feel free to contact me for inquiries, volunteer work, or just for an interesting discussion.
   
 </p>
