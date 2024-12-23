@@ -1,11 +1,11 @@
-# <b>Hi 👋, I'm Geraldo</b>
+# <b>Hi 👋, Eu sou o Geraldo</b>
 <br>
 
 
   <p>Hello! Welcome!<br>
   I'm Geraldo, Developer from Brazil <br>
-💡  I enjoy exploring new trends and learning new technologies.<br>
-💬  Feel free to contact me for inquiries, volunteer work, or just for an interesting discussion.
+💡 Gosto de explorar novas tendências e aprender novas tecnologias.
+💬 Sinta-se à vontade para entrar em contato comigo para perguntas, trabalhos voluntários ou apenas para um bate-papo interessante.
   
 </p>
 <br>
