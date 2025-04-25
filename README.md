@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there! My name is Geraldo, and I’m an aspiring full-stack developer passionate about creating complete solutions, from frontend interfaces to backend systems. I’m currently learning and experimenting with modern technologies to build efficient and functional applications.<br><br>A little more about me:<br>🎓 Studying full-stack development, focusing on Python, JavaScript, React, Node.js, and DevOps.<br>🚀 Interested in building real-world projects to solve everyday problems and sharpen my skills.<br>🌱 Continuously learning about responsive design and programming best practices.<br>🎯 My goal is to become a professional full-stack developer and contribute to open-source projects.
+Hi there! My name is Geraldo, and I’m an aspiring full-stack developer passionate about creating complete solutions, from frontend interfaces to backend systems. I’m currently learning and experimenting with modern technologies to build efficient and functional applications.
+
+A little more about me:
+🎓 Studying full-stack development, focusing on Python, JavaScript, React, Node.js, DevOps, and data analysis.
+📊 Exploring data analysis to extract insights and support decision-making using tools like Pandas, SQL, and data visualization libraries.
+🚀 Interested in building real-world projects to solve everyday problems and sharpen my skills.
+🌱 Continuously learning about responsive design, programming best practices, and the power of data.
+🎯 My goal is to become a professional full-stack developer and contribute to open-source projects.
 
 
 ## 🌐 Socials:
